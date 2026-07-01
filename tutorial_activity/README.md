@@ -8,7 +8,7 @@ Completed TODO 1 to TODO 5 in Java_Starter/SmartCampusServiceHubStarter.java.
 
 ## Structure-to-task mapping
 
-- TODO 1: Stack - balanced delimiter validation
+- TODO 1: Stacks - balanced delimiter validation
 - TODO 2: Two stacks - undo/redo status updates
 - TODO 3: Circular queue - fixed ICT lab waiting line
 - TODO 4: Deque - shuttle boarding
