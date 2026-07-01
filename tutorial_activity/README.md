@@ -3,7 +3,7 @@
 This revised pack makes the tutorial task explicit. Students complete the Java program SmartCampusServiceHubStarter.java.
 
 ## Main student task
-Complete TODO 1 to TODO 5 in Java_Starter/SmartCampusServiceHubStarter.java.
+Completed TODO 1 to TODO 5 in Java_Starter/SmartCampusServiceHubStarter.java.
 
 ## Structure-to-task mapping
 - TODO 1: Stack - balanced delimiter validation
