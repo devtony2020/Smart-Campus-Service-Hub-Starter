@@ -1,0 +1,24 @@
+=== TODO 1: Balanced Command Checker ===
+true
+false
+
+=== TODO 2: Ticket Status Undo/Redo ===
+Assigned
+Reviewed
+Assigned
+
+=== TODO 3: Circular Waiting Queue ===
+Amina
+[Kojo, Efua, Yaw, Adjoa]
+false
+
+=== TODO 4: Shuttle Deque ===
+[Nurse Efua, Kojo, Ama]
+Nurse Efua
+Ama
+
+=== TODO 5: Priority Ticket Queue ===
+T1(severity=5, arrival=1)
+T3(severity=4, arrival=3)
+T4(severity=4, arrival=4)
+T2(severity=2, arrival=2)
